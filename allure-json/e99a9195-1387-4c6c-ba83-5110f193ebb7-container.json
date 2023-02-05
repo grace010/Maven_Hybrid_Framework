@@ -1,0 +1,1 @@
+{"uuid":"e99a9195-1387-4c6c-ba83-5110f193ebb7","name":"NopCommerce","children":["69503fd9-cd34-4aa8-860b-663b437ce02d"],"befores":[{"name":"intBeforeSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675576789274,"stop":1675576789280}],"afters":[],"start":1675576789256,"stop":1675576843260}

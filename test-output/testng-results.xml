@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T16:51:56Z" name="SauceLab" finished-at="2023-01-29T16:52:08Z" duration-ms="11644">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T16:51:56Z" name="run on firefox" finished-at="2023-01-29T16:52:08Z" duration-ms="11644">
+      <class name="com.nopcommerce.user.Level_19_Sort_ASC_DESC">
+        <test-method is-config="true" signature="intBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:51:56Z" name="intBeforeSuite" finished-at="2023-01-29T16:51:56Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:51:57Z" name="beforeClass" finished-at="2023-01-29T16:52:01Z" duration-ms="4311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Sort_01_Name_ASC()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:01Z" name="Sort_01_Name_ASC" finished-at="2023-01-29T16:52:04Z" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort_01_Name_ASC -->
+        <test-method signature="Sort_02_Name_DESC()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:04Z" name="Sort_02_Name_DESC" finished-at="2023-01-29T16:52:07Z" duration-ms="3364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort_02_Name_DESC -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:07Z" name="afterClass" finished-at="2023-01-29T16:52:08Z" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_19_Sort_ASC_DESC -->
+    </test> <!-- run on firefox -->
+  </suite> <!-- SauceLab -->
+</testng-results>

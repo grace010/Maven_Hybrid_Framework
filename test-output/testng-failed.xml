@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SauceLab]">
+  <parameter name="url" value="https://www.saucedemo.com/"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+  </listeners>
+  <test thread-count="5" name="run on firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.nopcommerce.user.Level_19_Sort_ASC_DESC">
+        <methods>
+          <include name="Sort_01_Name"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="Sort_02_Price"/>
+          <include name="intBeforeSuite"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.Level_19_Sort_ASC_DESC -->
+    </classes>
+  </test> <!-- run on firefox(failed) -->
+</suite> <!-- Failed suite [SauceLab] -->

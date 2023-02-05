@@ -1,0 +1,607 @@
+[INFO ] [2022-12-05 22:46:08,878] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 22:46:12,927] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 22:46:13,013] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 22:46:13,103] Register_Step04_Enter to email texbox is '78910@gmail.com'
+[INFO ] [2022-12-05 22:46:13,197] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 22:46:13,283] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 22:46:13,374] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 22:46:15,549] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 22:46:15,602] Open customer infor page
+[INFO ] [2022-12-05 22:46:17,276] Open customer address page
+[INFO ] [2022-12-05 22:46:18,897] Open customer infor page
+[INFO ] [2022-12-05 22:46:19,397] Open reward point page
+[INFO ] [2022-12-05 22:46:20,531] Open customer infor page
+[INFO ] [2022-12-05 22:56:58,825] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 22:57:00,194] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 22:57:00,276] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 22:57:00,352] Register_Step04_Enter to email texbox is '16610@gmail.com'
+[INFO ] [2022-12-05 22:57:00,434] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 22:57:00,525] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 22:57:00,616] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 22:57:01,467] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 22:57:01,510] Open customer infor page
+[INFO ] [2022-12-05 22:57:02,064] Step01_Open customer address page
+[INFO ] [2022-12-05 22:57:02,865] Step02_Open customer infor page
+[INFO ] [2022-12-05 22:57:03,286] Step03_Open reward point page
+[INFO ] [2022-12-05 22:57:04,337] Step04_Open customer infor page
+[INFO ] [2022-12-05 23:06:19,483] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 23:06:22,719] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 23:06:22,824] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 23:06:22,903] Register_Step04_Enter to email texbox is '9230@gmail.com'
+[INFO ] [2022-12-05 23:06:22,982] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 23:06:23,052] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 23:06:23,130] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 23:06:27,648] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 23:06:27,711] Step01_Open customer infor page
+[INFO ] [2022-12-05 23:06:30,390] Step01_Open customer address page
+[INFO ] [2022-12-05 23:06:30,982] Step02_Open customer infor page
+[INFO ] [2022-12-05 23:06:31,499] Step03_Open reward point page
+[INFO ] [2022-12-05 23:06:33,709] Step04_Open customer infor page
+[INFO ] [2022-12-05 23:07:25,669] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 23:07:26,937] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 23:07:27,020] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 23:07:27,112] Register_Step04_Enter to email texbox is '70246@gmail.com'
+[INFO ] [2022-12-05 23:07:27,206] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 23:07:27,290] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 23:07:27,381] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 23:07:28,616] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 23:07:28,665] Step01_Open customer infor page
+[INFO ] [2022-12-05 23:07:30,762] Step01_Open customer address page
+[INFO ] [2022-12-05 23:07:32,070] Step02_Open customer infor page
+[INFO ] [2022-12-05 23:07:32,921] Step03_Open reward point page
+[INFO ] [2022-12-05 23:07:33,715] Step04_Open customer infor page
+[INFO ] [2022-12-05 23:29:00,605] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 23:29:02,042] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 23:29:02,125] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 23:29:02,217] Register_Step04_Enter to email texbox is '91583@gmail.com'
+[INFO ] [2022-12-05 23:29:02,309] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 23:29:02,396] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 23:29:02,488] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 23:29:03,268] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 23:29:43,855] Step01_Open customer infor page
+[INFO ] [2022-12-05 23:30:24,426] Step01_Open customer address page
+[INFO ] [2022-12-05 23:31:41,513] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 23:31:42,484] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 23:31:42,576] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 23:31:42,667] Register_Step04_Enter to email texbox is '90010@gmail.com'
+[INFO ] [2022-12-05 23:31:42,760] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 23:31:42,848] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 23:31:42,931] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 23:31:43,706] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 23:32:24,293] Step01_Open customer infor page
+[INFO ] [2022-12-05 23:33:04,863] Step01_Open customer address page
+[INFO ] [2022-12-05 23:41:14,919] Register_Step01_Open reigster page
+[INFO ] [2022-12-05 23:41:17,250] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-05 23:41:17,341] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-05 23:41:17,433] Register_Step04_Enter to email texbox is '71474@gmail.com'
+[INFO ] [2022-12-05 23:41:17,525] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-05 23:41:17,607] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-05 23:41:17,688] Register_Step07_Click to Register button
+[INFO ] [2022-12-05 23:41:18,520] Register_Step08_Verify Register success
+[INFO ] [2022-12-05 23:41:18,568] Step01_Open customer infor page
+[INFO ] [2022-12-05 23:41:19,052] Step01_Open customer address page
+[INFO ] [2022-12-05 23:41:19,512] Step02_Open customer infor page
+[INFO ] [2022-12-05 23:41:19,880] Step03_Open reward point page
+[INFO ] [2022-12-05 23:41:20,394] Step04_Open customer infor page
+[INFO ] [2022-12-06 21:44:25,448] Register_Step01_Open reigster page
+[INFO ] [2022-12-06 21:44:26,556] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-06 21:44:26,639] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-06 21:44:26,731] Register_Step04_Enter to email texbox is '96765@gmail.com'
+[INFO ] [2022-12-06 21:44:26,829] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-06 21:44:26,908] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-06 21:44:26,990] Register_Step07_Click to Register button
+[INFO ] [2022-12-06 21:44:27,860] Register_Step08_Verify Register success
+[INFO ] [2022-12-06 21:44:27,919] Step01_Open customer infor page
+[INFO ] [2022-12-06 21:44:28,414] Step01_Open customer address page
+[INFO ] [2022-12-06 21:44:28,884] Step02_Open customer infor page
+[INFO ] [2022-12-06 21:44:29,334] Step03_Open reward point page
+[INFO ] [2022-12-06 21:44:31,305] Step04_Open customer infor page
+[INFO ] [2022-12-08 22:10:20,081] Register_Step01_Open reigster page
+[INFO ] [2022-12-08 22:10:21,499] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-08 22:10:21,591] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-08 22:10:21,686] Register_Step04_Enter to email texbox is '62143@gmail.com'
+[INFO ] [2022-12-08 22:10:21,779] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-08 22:10:21,865] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-08 22:10:21,949] Register_Step07_Click to Register button
+[INFO ] [2022-12-08 22:10:22,808] Register_Step08_Verify Register success
+[INFO ] [2022-12-08 22:10:22,865] Step01_Open customer infor page
+[INFO ] [2022-12-08 22:10:23,439] Step01_Open customer address page
+[INFO ] [2022-12-08 22:10:24,253] Step02_Open customer infor page
+[INFO ] [2022-12-08 22:10:24,684] Step03_Open reward point page
+[INFO ] [2022-12-08 22:10:26,009] Step04_Open customer infor page
+[INFO ] [2022-12-08 22:11:09,381] Register_Step01_Open reigster page
+[INFO ] [2022-12-08 22:11:10,747] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-08 22:11:10,849] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-08 22:11:10,939] Register_Step04_Enter to email texbox is '27042@gmail.com'
+[INFO ] [2022-12-08 22:11:11,033] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-08 22:11:11,122] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-08 22:11:11,213] Register_Step07_Click to Register button
+[INFO ] [2022-12-08 22:11:12,071] Register_Step08_Verify Register success
+[INFO ] [2022-12-08 22:11:12,192] Step01_Open customer infor page
+[INFO ] [2022-12-08 22:11:12,783] Step01_Open customer address page
+[INFO ] [2022-12-08 22:11:13,328] Step02_Open customer infor page
+[INFO ] [2022-12-08 22:11:13,708] Step03_Open reward point page
+[INFO ] [2022-12-08 22:11:15,932] Step04_Open customer infor page
+[INFO ] [2022-12-08 22:27:21,134] Register_Step01_Open reigster page
+[INFO ] [2022-12-08 22:27:21,907] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-08 22:27:21,998] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-08 22:27:22,090] Register_Step04_Enter to email texbox is '70807@gmail.com'
+[INFO ] [2022-12-08 22:27:22,187] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-08 22:27:22,270] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-08 22:27:22,360] Register_Step07_Click to Register button
+[INFO ] [2022-12-08 22:27:23,154] Register_Step08_Verify Register success
+[INFO ] [2022-12-08 22:27:23,267] Step01_Open customer infor page
+[INFO ] [2022-12-08 22:27:23,791] Step01_Open customer address page
+[INFO ] [2022-12-08 22:27:24,282] Step02_Open customer infor page
+[INFO ] [2022-12-08 22:27:24,707] Step03_Open reward point page
+[INFO ] [2022-12-08 22:27:25,214] Step04_Open customer infor page
+[INFO ] [2022-12-08 22:27:57,032] Register_Step01_Open reigster page
+[INFO ] [2022-12-08 22:27:58,297] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-08 22:27:58,381] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-08 22:27:58,475] Register_Step04_Enter to email texbox is '12112@gmail.com'
+[INFO ] [2022-12-08 22:27:58,565] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-08 22:27:58,643] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-08 22:27:58,725] Register_Step07_Click to Register button
+[INFO ] [2022-12-08 22:28:00,160] Register_Step08_Verify Register success
+[INFO ] [2022-12-08 22:28:00,269] Step01_Open customer infor page
+[INFO ] [2022-12-08 22:28:00,960] Step01_Open customer address page
+[INFO ] [2022-12-08 22:28:01,477] Step02_Open customer infor page
+[INFO ] [2022-12-08 22:28:01,923] Step03_Open reward point page
+[INFO ] [2022-12-08 22:28:02,411] Step04_Open customer infor page
+[INFO ] [2022-12-09 21:13:28,439] Register_Step01_Open reigster page
+[INFO ] [2022-12-09 21:13:29,652] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-09 21:13:29,741] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-09 21:13:29,831] Register_Step04_Enter to email texbox is '50138@gmail.com'
+[INFO ] [2022-12-09 21:13:29,925] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-09 21:13:30,014] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-09 21:13:30,102] Register_Step07_Click to Register button
+[INFO ] [2022-12-09 21:13:31,101] Register_Step08_Verify Register success
+[INFO ] [2022-12-09 21:13:31,151] Step01_Open customer infor page
+[INFO ] [2022-12-09 21:13:31,776] Step01_Open customer address page
+[INFO ] [2022-12-09 21:13:33,080] Step02_Open customer infor page
+[INFO ] [2022-12-09 21:13:33,590] Step03_Open reward point page
+[INFO ] [2022-12-09 21:13:35,818] Step04_Open customer infor page
+[INFO ] [2022-12-13 22:43:41,885] Register_Step01_Open reigster page
+[INFO ] [2022-12-13 22:43:42,595] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-13 22:43:43,271] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:35:13,158] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 21:35:16,005] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 21:35:16,106] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 21:35:16,194] Register_Step04_Enter to email texbox is '93226@gmail.com'
+[INFO ] [2022-12-16 21:35:16,286] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 21:35:16,375] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 21:35:16,466] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 21:35:19,874] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 21:35:20,092] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:35:21,338] Step01_Open customer address page
+[INFO ] [2022-12-16 21:35:22,063] Step02_Open customer infor page
+[INFO ] [2022-12-16 21:35:23,028] Step03_Open reward point page
+[INFO ] [2022-12-16 21:35:23,656] Step04_Open customer infor page
+[INFO ] [2022-12-16 21:54:38,429] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 21:54:39,431] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 21:54:39,525] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 21:54:39,619] Register_Step04_Enter to email texbox is '87625@gmail.com'
+[INFO ] [2022-12-16 21:54:39,710] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 21:54:39,797] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 21:54:39,891] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 21:54:40,627] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 21:54:40,746] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:54:41,180] Step01_Open customer address page
+[INFO ] [2022-12-16 21:54:41,631] Step02_Open customer infor page
+[INFO ] [2022-12-16 21:54:41,982] Step03_Open reward point page
+[INFO ] [2022-12-16 21:54:42,442] Step04_Open customer infor page
+[INFO ] [2022-12-16 21:56:06,520] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:56:24,927] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:58:18,618] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 21:58:19,716] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 21:58:19,813] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 21:58:19,897] Register_Step04_Enter to email texbox is '11426@gmail.com'
+[INFO ] [2022-12-16 21:58:19,997] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 21:58:20,074] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 21:58:20,155] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 21:58:20,891] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 21:58:20,991] Step01_Open customer infor page
+[INFO ] [2022-12-16 21:58:21,488] Step01_Open customer address page
+[INFO ] [2022-12-16 21:58:21,966] Step02_Open customer infor page
+[INFO ] [2022-12-16 21:58:22,331] Step03_Open reward point page
+[INFO ] [2022-12-16 21:58:22,780] Step04_Open customer infor page
+[INFO ] [2022-12-16 21:59:49,533] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 21:59:50,769] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 21:59:50,861] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 21:59:50,953] Register_Step04_Enter to email texbox is '15496@gmail.com'
+[INFO ] [2022-12-16 21:59:51,049] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 21:59:51,134] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 21:59:51,224] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 21:59:52,106] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:12:50,989] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:12:52,224] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:12:52,314] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:12:52,402] Register_Step04_Enter to email texbox is '22405@gmail.com'
+[INFO ] [2022-12-16 22:12:52,497] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:12:52,578] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:12:52,661] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:12:53,504] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:13:06,781] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:13:07,957] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:13:08,051] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:13:08,143] Register_Step04_Enter to email texbox is '20544@gmail.com'
+[INFO ] [2022-12-16 22:13:08,234] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:13:08,322] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:13:08,413] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:13:09,288] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:49:05,350] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:49:07,355] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:49:07,441] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:49:07,537] Register_Step04_Enter to email texbox is '32437@gmail.com'
+[INFO ] [2022-12-16 22:49:07,628] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:49:07,715] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:49:07,798] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:49:08,769] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:49:08,925] OS name = windows 10
+[INFO ] [2022-12-16 22:49:08,925] Driver instance name = firefoxdriver: firefox on windows (3ff43837-d46a-4c83-836f-35faa8fe4242)
+[INFO ] [2022-12-16 22:49:46,561] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:49:47,917] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:49:48,011] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:49:48,102] Register_Step04_Enter to email texbox is '30026@gmail.com'
+[INFO ] [2022-12-16 22:49:48,194] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:49:48,275] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:49:48,356] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:49:49,769] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:50:38,914] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:50:40,141] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:50:40,221] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:50:40,314] Register_Step04_Enter to email texbox is '44451@gmail.com'
+[INFO ] [2022-12-16 22:50:40,423] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:50:40,504] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:50:40,582] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:50:41,379] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:51:06,249] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:51:07,003] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:51:07,087] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:51:07,180] Register_Step04_Enter to email texbox is '99528@gmail.com'
+[INFO ] [2022-12-16 22:51:07,270] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:51:07,350] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:51:07,430] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:51:08,325] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:51:36,660] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:51:38,036] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:51:38,120] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:51:38,213] Register_Step04_Enter to email texbox is '64870@gmail.com'
+[INFO ] [2022-12-16 22:51:38,307] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:51:38,396] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:51:38,481] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:51:39,331] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:51:39,497] OS name = windows 10
+[INFO ] [2022-12-16 22:51:39,497] Driver instance name = firefoxdriver: firefox on windows (612682c8-3ba3-48b0-af19-b0e08551be8b)
+[INFO ] [2022-12-16 22:51:56,064] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:51:57,175] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:51:57,272] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:51:57,364] Register_Step04_Enter to email texbox is '62839@gmail.com'
+[INFO ] [2022-12-16 22:51:57,457] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:51:57,543] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:51:57,629] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:51:58,487] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:52:44,198] Register_Step01_Open reigster page
+[INFO ] [2022-12-16 22:52:45,231] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-16 22:52:45,322] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-16 22:52:45,413] Register_Step04_Enter to email texbox is '45780@gmail.com'
+[INFO ] [2022-12-16 22:52:45,510] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-16 22:52:45,587] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-16 22:52:45,668] Register_Step07_Click to Register button
+[INFO ] [2022-12-16 22:52:46,426] Register_Step08_Verify Register success
+[INFO ] [2022-12-16 22:52:46,582] OS name = windows 10
+[INFO ] [2022-12-16 22:52:46,582] Driver instance name = firefoxdriver: firefox on windows (d4466fec-4bd0-4fec-a356-799c466b4fbb)
+[INFO ] [2022-12-17 13:41:45,733] Register_Step01_Open reigster page
+[INFO ] [2022-12-17 13:41:47,218] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-17 13:41:47,306] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-17 13:41:47,395] Register_Step04_Enter to email texbox is '57749@gmail.com'
+[INFO ] [2022-12-17 13:41:47,492] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-17 13:41:47,574] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-17 13:41:47,649] Register_Step07_Click to Register button
+[INFO ] [2022-12-17 13:41:48,754] Register_Step08_Verify Register success
+[INFO ] [2022-12-17 13:41:48,868] Step01_Open customer infor page
+[INFO ] [2022-12-17 13:41:49,464] Step01_Open customer address page
+[INFO ] [2022-12-17 13:41:50,188] Step02_Open customer infor page
+[INFO ] [2022-12-17 13:41:50,647] Step03_Open reward point page
+[INFO ] [2022-12-17 13:41:51,373] Step04_Open customer infor page
+[INFO ] [2022-12-17 13:41:51,759] OS name = windows 10
+[INFO ] [2022-12-17 13:41:51,759] Driver instance name = firefoxdriver: firefox on windows (3ad6218a-63c2-4e8d-8627-ee332a1566e2)
+[INFO ] [2022-12-17 14:09:15,192] Register_Step01_Open reigster page
+[INFO ] [2022-12-17 14:09:19,299] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-17 14:09:19,382] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-17 14:09:19,473] Register_Step04_Enter to email texbox is '67604@gmail.com'
+[INFO ] [2022-12-17 14:09:19,580] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-17 14:09:19,677] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-17 14:09:19,762] Register_Step07_Click to Register button
+[INFO ] [2022-12-17 14:09:39,865] Step01_Open customer infor page
+[INFO ] [2022-12-17 14:10:20,434] OS name = windows 10
+[INFO ] [2022-12-17 14:10:20,434] Driver instance name = firefoxdriver: firefox on windows (faf3441e-5242-41a1-ad53-a9623162fb04)
+[INFO ] [2022-12-17 14:11:42,202] Register_Step01_Open reigster page
+[INFO ] [2022-12-17 14:11:43,304] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-17 14:11:43,384] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-17 14:11:43,476] Register_Step04_Enter to email texbox is '82109@gmail.com'
+[INFO ] [2022-12-17 14:11:43,571] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-17 14:11:43,659] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-17 14:11:43,751] Register_Step07_Click to Register button
+[INFO ] [2022-12-17 14:11:44,592] Register_Step08_Verify Register success
+[INFO ] [2022-12-17 14:11:44,702] Step01_Open customer infor page
+[INFO ] [2022-12-17 14:11:45,173] Step01_Open customer address page
+[INFO ] [2022-12-17 14:11:45,809] Step02_Open customer infor page
+[INFO ] [2022-12-17 14:11:46,204] Step03_Open reward point page
+[INFO ] [2022-12-17 14:11:46,791] Step04_Open customer infor page
+[INFO ] [2022-12-17 14:11:47,180] OS name = windows 10
+[INFO ] [2022-12-17 14:11:47,180] Driver instance name = firefoxdriver: firefox on windows (08a81b78-ee3f-40a0-a794-18b9b02d6387)
+[INFO ] [2022-12-18 11:18:15,273] Register_Step01_Open reigster page
+[INFO ] [2022-12-18 11:18:20,638] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-18 11:18:20,732] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-18 11:18:21,727] Register_Step04_Enter to email texbox is '31425@gmail.com'
+[INFO ] [2022-12-18 11:18:21,811] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-18 11:18:21,901] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-18 11:18:21,990] Register_Step07_Click to Register button
+[INFO ] [2022-12-18 11:18:26,944] Register_Step08_Verify Register success
+[INFO ] [2022-12-18 11:18:27,053] Step01_Open customer infor page
+[INFO ] [2022-12-18 11:18:30,226] Step01_Open customer address page
+[INFO ] [2022-12-18 11:18:32,941] Step02_Open customer infor page
+[INFO ] [2022-12-18 11:18:33,540] Step03_Open reward point page
+[INFO ] [2022-12-18 11:18:35,905] Step04_Open customer infor page
+[INFO ] [2022-12-18 11:18:36,728] OS name = windows 10
+[INFO ] [2022-12-18 11:18:36,729] Driver instance name = firefoxdriver: firefox on windows (254def77-5958-4181-b14e-f5d7390b3d4d)
+[INFO ] [2022-12-18 12:11:27,609] Register_Step01_Open reigster page
+[INFO ] [2022-12-18 12:11:29,996] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-18 12:11:30,127] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-18 12:11:31,099] Register_Step04_Enter to email texbox is '22054@gmail.com'
+[INFO ] [2022-12-18 12:11:31,184] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-18 12:11:31,265] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-18 12:11:31,348] Register_Step07_Click to Register button
+[INFO ] [2022-12-18 12:11:35,727] Register_Step08_Verify Register success
+[INFO ] [2022-12-18 12:11:35,831] Step01_Open customer infor page
+[INFO ] [2022-12-18 12:12:17,042] Step01_Open customer infor page
+[INFO ] [2022-12-18 12:12:18,304] Step01_Open customer address page
+[INFO ] [2022-12-18 12:12:18,904] Step02_Open customer infor page
+[INFO ] [2022-12-18 12:12:19,335] Step03_Open reward point page
+[INFO ] [2022-12-18 12:12:19,867] Step04_Open customer infor page
+[INFO ] [2022-12-18 12:12:20,321] OS name = windows 10
+[INFO ] [2022-12-18 12:12:20,321] Driver instance name = firefoxdriver: firefox on windows (577058fc-31ef-42fe-bb85-bfbebd0dd78e)
+[INFO ] [2022-12-18 12:18:12,491] Register_Step01_Open reigster page
+[INFO ] [2022-12-18 12:18:14,289] Register_Step02_Enter to firstname textbox
+[INFO ] [2022-12-18 12:18:14,385] Register_Step03_Enter to lastname textbox
+[INFO ] [2022-12-18 12:18:15,347] Register_Step04_Enter to email texbox is '82163@gmail.com'
+[INFO ] [2022-12-18 12:18:15,429] Register_Step05_Enter to password texbox
+[INFO ] [2022-12-18 12:18:15,519] Register_Step06_Enter to confirm password texbox
+[INFO ] [2022-12-18 12:18:15,595] Register_Step07_Click to Register button
+[INFO ] [2022-12-18 12:18:16,327] Register_Step08_Verify Register success
+[INFO ] [2022-12-18 12:18:16,438] Step01_Open customer infor page
+[INFO ] [2022-12-18 12:18:17,054] Step01_Open customer infor page
+[INFO ] [2022-12-18 12:18:17,414] Step01_Open customer address page
+[INFO ] [2022-12-18 12:18:19,531] Step02_Open customer infor page
+[INFO ] [2022-12-18 12:18:19,916] Step03_Open reward point page
+[INFO ] [2022-12-18 12:18:21,537] Step04_Open customer infor page
+[INFO ] [2022-12-18 12:18:21,905] OS name = windows 10
+[INFO ] [2022-12-18 12:18:21,905] Driver instance name = firefoxdriver: firefox on windows (b2ecb6a4-734e-4e5f-a80b-21be5460b0df)
+[INFO ] [2023-01-09 01:15:04,360] Register_Step01_Open reigster page
+[INFO ] [2023-01-09 01:15:05,323] Register_Step02_Enter to firstname textbox
+[INFO ] [2023-01-09 01:15:05,433] Register_Step03_Enter to lastname textbox
+[INFO ] [2023-01-09 01:15:05,519] Register_Step04_Enter to email texbox is '40010@gmail.com'
+[INFO ] [2023-01-09 01:15:05,617] Register_Step05_Enter to password texbox
+[INFO ] [2023-01-09 01:15:05,694] Register_Step06_Enter to confirm password texbox
+[INFO ] [2023-01-09 01:15:05,774] Register_Step07_Click to Register button
+[INFO ] [2023-01-09 01:15:06,433] Register_Step08_Verify Register success
+[INFO ] [2023-01-09 01:15:06,527] Step01_Open customer infor page
+[INFO ] [2023-01-09 01:17:31,168] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-09 01:17:31,341] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-09 01:17:31,466] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-09 01:17:33,633] Click to Post menu link
+[INFO ] [2023-01-09 01:17:34,723] Input value into Post Search box 
+[INFO ] [2023-01-09 01:17:34,851] Click to Search Posts button 
+[INFO ] [2023-01-09 01:17:36,859] Verify title and list search in search page 
+[INFO ] [2023-01-09 01:17:36,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-09 01:17:37,047] OS name = windows 10
+[INFO ] [2023-01-09 01:17:37,048] Driver instance name = chromedriver: chrome on windows (ee0d01d6a92db36dd368df22ed7ee6c8)
+[INFO ] [2023-01-11 21:31:15,532] OS name = windows 10
+[INFO ] [2023-01-11 21:31:15,534] Driver instance name = chromedriver: chrome on windows (c483bfab288543ab49c04a575f449eaf)
+[INFO ] [2023-01-11 21:31:36,822] OS name = windows 10
+[INFO ] [2023-01-11 21:31:36,824] Driver instance name = chromedriver: chrome on windows (50cfce59c727387cbf702f77a20000f0)
+[INFO ] [2023-01-11 21:34:05,604] OS name = windows 10
+[INFO ] [2023-01-11 21:34:05,605] Driver instance name = chromedriver: chrome on windows (4ba8610f1062367b7c1869ac5e56b3b5)
+[INFO ] [2023-01-11 21:34:09,684] java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:20055
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-UABRI8V', ip: '192.168.20.110', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: driver.version: RemoteWebDriver
+[INFO ] [2023-01-11 21:34:13,500] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 21:34:13,655] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 21:34:13,771] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 21:34:44,118] Click to Post menu link
+[INFO ] [2023-01-11 21:34:48,631] Input value into Post Search box 
+[INFO ] [2023-01-11 21:34:48,776] Click to Search Posts button 
+[INFO ] [2023-01-11 21:34:54,618] Verify title and list search in search page 
+[INFO ] [2023-01-11 21:34:54,770]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 21:34:54,844] OS name = windows 10
+[INFO ] [2023-01-11 21:34:54,844] Driver instance name = chromedriver: chrome on windows (8d8c3c5c9d01547cdeb5a90d14c9dd95)
+[INFO ] [2023-01-11 22:07:22,471] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:07:22,658] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:07:22,745] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:07:28,107] Click to Post menu link
+[INFO ] [2023-01-11 22:07:31,767] Input value into Post Search box 
+[INFO ] [2023-01-11 22:07:31,860] Click to Search Posts button 
+[INFO ] [2023-01-11 22:07:34,698] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:07:34,854]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:07:34,943] OS name = windows 10
+[INFO ] [2023-01-11 22:07:34,943] Driver instance name = firefoxdriver: firefox on windows (308fb573-a49e-4939-9648-d10ef3c3fc8c)
+[INFO ] [2023-01-11 22:13:23,361] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:13:23,546] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:13:23,652] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:13:26,399] Click to Post menu link
+[INFO ] [2023-01-11 22:13:27,577] Input value into Post Search box 
+[INFO ] [2023-01-11 22:13:27,664] Click to Search Posts button 
+[INFO ] [2023-01-11 22:13:29,424] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:13:29,541]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:13:29,624] OS name = windows 10
+[INFO ] [2023-01-11 22:13:29,624] Driver instance name = firefoxdriver: firefox on windows (0d8dee97-511f-41fd-8505-155e01abda83)
+[INFO ] [2023-01-11 22:18:43,440] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:18:43,628] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:18:43,721] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:18:45,650] Click to Post menu link
+[INFO ] [2023-01-11 22:18:46,808] Input value into Post Search box 
+[INFO ] [2023-01-11 22:18:46,888] Click to Search Posts button 
+[INFO ] [2023-01-11 22:18:48,645] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:18:48,819]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:18:48,905] OS name = windows 10
+[INFO ] [2023-01-11 22:18:48,905] Driver instance name = firefoxdriver: firefox on windows (b33bda1f-8a05-488d-97ba-9e3d9d23903a)
+[INFO ] [2023-01-11 22:20:49,331] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:20:49,518] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:20:49,607] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:20:51,582] Click to Post menu link
+[INFO ] [2023-01-11 22:20:52,669] Input value into Post Search box 
+[INFO ] [2023-01-11 22:20:52,771] Click to Search Posts button 
+[INFO ] [2023-01-11 22:20:54,640] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:20:54,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:20:54,910] OS name = windows 10
+[INFO ] [2023-01-11 22:20:54,911] Driver instance name = firefoxdriver: firefox on windows (6266277a-ca74-4abc-ba5a-063335f0ec96)
+[INFO ] [2023-01-11 22:26:22,480] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:26:22,687] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:26:22,770] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:26:25,015] Click to Post menu link
+[INFO ] [2023-01-11 22:26:26,204] Input value into Post Search box 
+[INFO ] [2023-01-11 22:26:26,304] Click to Search Posts button 
+[INFO ] [2023-01-11 22:26:28,174] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:26:28,346]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:26:28,438] OS name = windows 10
+[INFO ] [2023-01-11 22:26:28,439] Driver instance name = firefoxdriver: firefox on windows (9a0cee74-931b-4e8e-b05e-24328fcdfb03)
+[INFO ] [2023-01-11 22:30:35,735] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:30:35,915] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:30:36,009] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:30:38,100] Click to Post menu link
+[INFO ] [2023-01-11 22:30:39,308] Input value into Post Search box 
+[INFO ] [2023-01-11 22:30:39,407] Click to Search Posts button 
+[INFO ] [2023-01-11 22:30:41,228] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:30:41,418]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:30:41,506] OS name = windows 10
+[INFO ] [2023-01-11 22:30:41,507] Driver instance name = firefoxdriver: firefox on windows (e6a25ff6-1fe2-4f8c-9188-6cb58dc8c83d)
+[INFO ] [2023-01-11 22:50:46,370] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-11 22:50:46,593] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-11 22:50:46,697] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-11 22:50:49,018] Click to Post menu link
+[INFO ] [2023-01-11 22:50:50,409] Input value into Post Search box 
+[INFO ] [2023-01-11 22:50:50,513] Click to Search Posts button 
+[INFO ] [2023-01-11 22:50:52,769] Verify title and list search in search page 
+[INFO ] [2023-01-11 22:50:52,999]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 22:50:53,120] OS name = windows 10
+[INFO ] [2023-01-11 22:50:53,120] Driver instance name = firefoxdriver: firefox on windows (8110a263-87b1-42ea-a337-878aec443d5d)
+[INFO ] [2023-01-29 18:35:53,348] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 18:35:53,476] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 18:35:53,555] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 18:35:59,421] Click to Post menu link
+[INFO ] [2023-01-29 18:36:17,002] Input value into Post Search box 
+[INFO ] [2023-01-29 18:36:17,082] Click to Search Posts button 
+[INFO ] [2023-01-29 18:36:22,020] Verify title and list search in search page 
+[INFO ] [2023-01-29 18:36:22,202]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 18:36:22,287] OS name = windows 10
+[INFO ] [2023-01-29 18:36:22,287] Driver instance name = firefoxdriver: firefox on windows (0b18d7f6-f5a5-4a92-9e0e-50908606f95b)
+[INFO ] [2023-01-29 18:37:17,957] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 18:37:18,149] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 18:37:18,233] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 18:37:22,554] Click to Post menu link
+[INFO ] [2023-01-29 18:37:25,590] Input value into Post Search box 
+[INFO ] [2023-01-29 18:37:25,683] Click to Search Posts button 
+[INFO ] [2023-01-29 18:37:29,942] Verify title and list search in search page 
+[INFO ] [2023-01-29 18:37:30,122]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 18:37:30,215] OS name = windows 10
+[INFO ] [2023-01-29 18:37:30,216] Driver instance name = firefoxdriver: firefox on windows (2a7169b2-9294-4e0a-a989-296ccfe9bc39)
+[INFO ] [2023-01-29 18:58:27,214] OS name = windows 10
+[INFO ] [2023-01-29 18:58:27,214] 
+[INFO ] [2023-01-29 18:59:50,229] OS name = windows 10
+[INFO ] [2023-01-29 18:59:50,230] 
+[INFO ] [2023-01-29 19:01:21,635] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 19:01:21,793] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 19:01:21,873] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 19:01:27,573] Click to Post menu link
+[INFO ] [2023-01-29 19:01:30,802] Input value into Post Search box 
+[INFO ] [2023-01-29 19:01:30,876] Click to Search Posts button 
+[INFO ] [2023-01-29 19:01:35,742] Verify title and list search in search page 
+[INFO ] [2023-01-29 19:01:35,908]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 19:01:36,041] OS name = windows 10
+[INFO ] [2023-01-29 19:01:36,041] Driver instance name = firefoxdriver: firefox on windows (4b7f2bb5-787e-42fd-980f-de07dd7b981f)
+[INFO ] [2023-01-29 19:03:55,042] OS name = windows 10
+[INFO ] [2023-01-29 19:03:55,042] 
+[INFO ] [2023-01-29 19:10:05,302] OS name = windows 10
+[INFO ] [2023-01-29 19:10:05,303] 
+[INFO ] [2023-01-29 19:15:56,512] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 19:15:56,664] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 19:15:56,746] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 19:15:58,637] Click to Post menu link
+[INFO ] [2023-01-29 19:15:59,705] Input value into Post Search box 
+[INFO ] [2023-01-29 19:15:59,801] Click to Search Posts button 
+[INFO ] [2023-01-29 19:16:01,570] Verify title and list search in search page 
+[INFO ] [2023-01-29 19:16:01,702]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 19:16:01,774] OS name = windows 10
+[INFO ] [2023-01-29 19:16:01,775] Driver instance name = firefoxdriver: firefox on windows (0ba4e167-5dca-4cb6-b79c-652a623298c3)
+[INFO ] [2023-01-29 19:23:10,740] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 19:23:10,964] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 19:23:11,051] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 19:23:13,104] Click to Post menu link
+[INFO ] [2023-01-29 19:23:14,263] Input value into Post Search box 
+[INFO ] [2023-01-29 19:23:14,358] Click to Search Posts button 
+[INFO ] [2023-01-29 19:23:16,107] Verify title and list search in search page 
+[INFO ] [2023-01-29 19:23:16,274]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 19:23:16,380] OS name = windows 10
+[INFO ] [2023-01-29 19:23:16,380] Driver instance name = firefoxdriver: firefox on windows (06e7be74-d896-4892-bfa1-8f77b229c69c)
+[INFO ] [2023-01-29 19:24:22,233] OS name = windows 10
+[INFO ] [2023-01-29 19:24:22,233] 
+[INFO ] [2023-01-29 19:28:39,929] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 19:28:40,108] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 19:28:40,192] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 19:28:46,032] Click to Post menu link
+[INFO ] [2023-01-29 19:28:48,904] Input value into Post Search box 
+[INFO ] [2023-01-29 19:28:48,983] Click to Search Posts button 
+[INFO ] [2023-01-29 19:28:51,095] Verify title and list search in search page 
+[INFO ] [2023-01-29 19:28:51,282]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 19:28:51,384] OS name = windows 10
+[INFO ] [2023-01-29 19:28:51,384] Driver instance name = firefoxdriver: firefox on windows (edb6aa64-0382-4757-a94d-4076caf3d7d2)
+[INFO ] [2023-01-29 19:31:24,048] OS name = windows 10
+[INFO ] [2023-01-29 19:31:24,048] 
+[INFO ] [2023-01-29 19:33:14,665] OS name = windows 10
+[INFO ] [2023-01-29 19:33:14,665] 
+[INFO ] [2023-01-29 19:36:12,403] OS name = windows 10
+[INFO ] [2023-01-29 19:36:12,404] 
+[INFO ] [2023-01-29 19:36:43,493] OS name = windows 10
+[INFO ] [2023-01-29 19:36:43,494] 
+[INFO ] [2023-01-29 19:37:16,077] OS name = windows 10
+[INFO ] [2023-01-29 19:37:16,078] 
+[INFO ] [2023-01-29 19:38:22,585] OS name = windows 10
+[INFO ] [2023-01-29 19:38:22,586] 
+[INFO ] [2023-01-29 19:38:32,512] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 19:38:32,721] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 19:38:32,810] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 19:38:36,973] Click to Post menu link
+[INFO ] [2023-01-29 19:38:38,093] Input value into Post Search box 
+[INFO ] [2023-01-29 19:38:38,198] Click to Search Posts button 
+[INFO ] [2023-01-29 19:38:39,943] Verify title and list search in search page 
+[INFO ] [2023-01-29 19:38:40,121]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 19:38:40,212] OS name = windows 10
+[INFO ] [2023-01-29 19:38:40,212] Driver instance name = firefoxdriver: firefox on windows (dabaf0b1-e665-4661-8ad5-edc6e0efeb30)
+[INFO ] [2023-01-29 20:05:48,817] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 20:05:49,038] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 20:05:49,131] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 20:05:54,304] Click to Post menu link
+[INFO ] [2023-01-29 20:05:55,538] Input value into Post Search box 
+[INFO ] [2023-01-29 20:05:55,637] Click to Search Posts button 
+[INFO ] [2023-01-29 20:05:57,554] Verify title and list search in search page 
+[INFO ] [2023-01-29 20:05:57,805]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 20:05:57,948] OS name = windows 10
+[INFO ] [2023-01-29 20:05:57,949] Driver instance name = firefoxdriver: firefox on windows (93648227-ab29-49a8-befd-65f94c2d6f4b)
+[INFO ] [2023-01-29 20:07:47,129] OS name = windows 10
+[INFO ] [2023-01-29 20:07:47,129] 
+[INFO ] [2023-01-29 20:09:06,938] OS name = windows 10
+[INFO ] [2023-01-29 20:09:06,939] 
+[INFO ] [2023-01-29 21:03:29,859] OS name = windows 10
+[INFO ] [2023-01-29 21:03:29,860] 
+[INFO ] [2023-01-29 21:03:48,821] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-01-29 21:03:49,032] Pre - Step_02: Input password into Admin login page
+[INFO ] [2023-01-29 21:03:49,123] Pre - Step_03: Click to into Admin login page
+[INFO ] [2023-01-29 21:03:51,394] Click to Post menu link
+[INFO ] [2023-01-29 21:03:52,680] Input value into Post Search box 
+[INFO ] [2023-01-29 21:03:52,796] Click to Search Posts button 
+[INFO ] [2023-01-29 21:03:54,728] Verify title and list search in search page 
+[INFO ] [2023-01-29 21:03:54,902]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-29 21:03:54,990] OS name = windows 10
+[INFO ] [2023-01-29 21:03:54,990] Driver instance name = firefoxdriver: firefox on windows (1906dfab-52f1-47b3-a2f9-c247edbb9783)

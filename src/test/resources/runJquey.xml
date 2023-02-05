@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	<!--<listener class-name="reportConfig.ReportNGListener" />-->
+	<!--<listener class-name="reportConfig.ExtentReportListenerV2" />-->
+	<!--<listener class-name="reportConfig.AllureTestListener" />-->
+	<!--<listener class-name="org.uncommons.reportng.HTMLReporter" />-->
+	<!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />-->
+	</listeners>
+	<parameter name="url" value="http://localhost:8080/wp-admin" />
+	<!--<parameter name="userUrl" value="http://localhost:8080" />-->
+	<!--<parameter name="browser" value="firefox" />-->
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.wordpress.post.Post_01_Read_Create_Delete_Update" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+	<parameter name="url" value="https://www.facebook.com/"/>
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.facebook.user.Level_13_Verify_Element_Undisplayed" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

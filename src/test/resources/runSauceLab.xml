@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceLab">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	<!--<listener class-name="reportConfig.ReportNGListener" />-->
+	<!--<listener class-name="reportConfig.ExtentReportListenerV2" />-->
+	<!--<listener class-name="reportConfig.AllureTestListener" />-->
+	<!--<listener class-name="org.uncommons.reportng.HTMLReporter" />-->
+	<!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />-->
+	</listeners>
+	<parameter name="url" value="https://www.saucedemo.com/" />
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.nopcommerce.user.Level_19_Sort_ASC_DESC" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
