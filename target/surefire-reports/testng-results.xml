@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-05T05:59:49Z" name="NopCommerce" finished-at="2023-02-05T06:00:42Z" duration-ms="53495">
+  <suite started-at="2023-02-07T17:02:11Z" name="NopCommerce" finished-at="2023-02-07T17:03:00Z" duration-ms="48683">
     <groups>
     </groups>
-    <test started-at="2023-02-05T05:59:49Z" name="run on firefox" finished-at="2023-02-05T06:00:42Z" duration-ms="53495">
+    <test started-at="2023-02-07T17:02:11Z" name="run on firefox" finished-at="2023-02-07T17:03:00Z" duration-ms="48683">
       <class name="com.nopcommerce.user.Level_15_Attach_V3__Screenshot">
-        <test-method is-config="true" signature="intBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@14b0e127]" started-at="2023-02-05T05:59:49Z" name="intBeforeSuite" finished-at="2023-02-05T05:59:49Z" duration-ms="22" status="PASS">
+        <test-method is-config="true" signature="intBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@7cea0110]" started-at="2023-02-07T17:02:11Z" name="intBeforeSuite" finished-at="2023-02-07T17:02:11Z" duration-ms="32" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@14b0e127]" started-at="2023-02-05T05:59:49Z" name="beforeClass" finished-at="2023-02-05T05:59:57Z" duration-ms="8604" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@7cea0110]" started-at="2023-02-07T17:02:11Z" name="beforeClass" finished-at="2023-02-07T17:02:17Z" duration-ms="5246" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="User_01_Register(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@14b0e127]" started-at="2023-02-05T05:59:57Z" name="User_01_Register" finished-at="2023-02-05T06:00:01Z" duration-ms="3998" status="FAIL">
+        <test-method signature="User_01_Register(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@7cea0110]" started-at="2023-02-07T17:02:17Z" name="User_01_Register" finished-at="2023-02-07T17:02:19Z" duration-ms="2598" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -83,7 +83,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- User_01_Register -->
-        <test-method signature="User_02_Switch_Account(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@14b0e127]" started-at="2023-02-05T06:00:02Z" name="User_02_Switch_Account" finished-at="2023-02-05T06:00:42Z" duration-ms="40597" status="FAIL">
+        <test-method signature="User_02_Switch_Account(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@7cea0110]" started-at="2023-02-07T17:02:20Z" name="User_02_Switch_Account" finished-at="2023-02-07T17:03:00Z" duration-ms="40569" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -136,8 +136,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-UABRI8V', ip: '192.168.20.110', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 109.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230127170202, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12136, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 7e943d14-6588-414f-8195-dac8f19184ee
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 109.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230127170202, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8472, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ab53221b-997b-4050-a924-ce52ae545caa
 *** Element info: {Using=xpath, value=//a[@class='ico-account']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -165,7 +165,7 @@ at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- User_02_Switch_Account -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@14b0e127]" started-at="2023-02-05T06:00:42Z" name="afterClass" finished-at="2023-02-05T06:00:42Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_15_Attach_V3__Screenshot@7cea0110]" started-at="2023-02-07T17:03:00Z" name="afterClass" finished-at="2023-02-07T17:03:00Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

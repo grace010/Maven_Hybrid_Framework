@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 55.577 s <<< FAILURE! - in TestSuite
-User_01_Register(com.nopcommerce.user.Level_15_Attach_V3__Screenshot)  Time elapsed: 4.142 s  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 50.395 s <<< FAILURE! - in TestSuite
+User_01_Register(com.nopcommerce.user.Level_15_Attach_V3__Screenshot)  Time elapsed: 2.607 s  <<< FAILURE!
 java.lang.AssertionError: expected [Your registration123 completed] but found [Your registration completed]
 	at com.nopcommerce.user.Level_15_Attach_V3__Screenshot.User_01_Register(Level_15_Attach_V3__Screenshot.java:56)
 
-User_02_Switch_Account(com.nopcommerce.user.Level_15_Attach_V3__Screenshot)  Time elapsed: 40.649 s  <<< FAILURE!
+User_02_Switch_Account(com.nopcommerce.user.Level_15_Attach_V3__Screenshot)  Time elapsed: 40.572 s  <<< FAILURE!
 org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@class='ico-account'] (tried for 30 second(s) with 500 milliseconds interval)
 	at com.nopcommerce.user.Level_15_Attach_V3__Screenshot.User_02_Switch_Account(Level_15_Attach_V3__Screenshot.java:63)
 Caused by: org.openqa.selenium.NoSuchElementException: 
@@ -15,8 +15,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-UABRI8V', ip: '192.168.20.110', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 109.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230127170202, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12136, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 7e943d14-6588-414f-8195-dac8f19184ee
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 109.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230127170202, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8472, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ab53221b-997b-4050-a924-ce52ae545caa
 *** Element info: {Using=xpath, value=//a[@class='ico-account']}
 	at com.nopcommerce.user.Level_15_Attach_V3__Screenshot.User_02_Switch_Account(Level_15_Attach_V3__Screenshot.java:63)
 
