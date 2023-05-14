@@ -64,20 +64,14 @@ public class BaseTest {
 		switch (browserName) {
 		case "firefox": 
 			System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
-			//WebDriverManager.firefoxdriver().setup();
-//			FirefoxProfile profile = new FirefoxProfile();
-//			File translate = new File (projectPath + "\\browserExtensions\\simple_translate-2.8.0.xpi");
-//			profile.addExtension(translate);
-//			profile.setAcceptUntrustedCertificates(true);
-//			profile.setAssumeUntrustedCertificateIssuer(false);
-//			options.setProfile(profile);
-			//driver = WebDriverManager.firefoxdriver().capabilities(options).create();
-			driver = new FirefoxDriver(options);
+		
+			//driver = WebDriverManager.firefoxdriver().create();
+			driver = new FirefoxDriver();
 			break;
 			
 		case "h_firefox": 
 			System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
-			//WebDriverManager.firefoxdriver().setup();
+			WebDriverManager.firefoxdriver().setup();
 		
 			options.addArguments("-headless");
 			options.addArguments("window-size=1920x1080");
@@ -88,7 +82,7 @@ public class BaseTest {
 		case "chrome":
 			//System.setProperty("webdriver.chrome.driver", projectPath + "\\browserDrivers\\chromedriver.exe");
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver(option);
+			driver = new ChromeDriver();
 			break;
 			
 		case "edge":

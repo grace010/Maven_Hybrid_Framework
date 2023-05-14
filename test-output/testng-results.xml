@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-29T16:51:56Z" name="SauceLab" finished-at="2023-01-29T16:52:08Z" duration-ms="11644">
+  <suite started-at="2023-04-08T05:20:57Z" name="NopCommerce" finished-at="2023-04-08T05:21:12Z" duration-ms="15393">
     <groups>
     </groups>
-    <test started-at="2023-01-29T16:51:56Z" name="run on firefox" finished-at="2023-01-29T16:52:08Z" duration-ms="11644">
-      <class name="com.nopcommerce.user.Level_19_Sort_ASC_DESC">
-        <test-method is-config="true" signature="intBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:51:56Z" name="intBeforeSuite" finished-at="2023-01-29T16:51:56Z" duration-ms="10" status="PASS">
+    <test started-at="2023-04-08T05:20:57Z" name="run on firefox" finished-at="2023-04-08T05:21:12Z" duration-ms="15393">
+      <class name="com.nopcommerce.user.Level_05_Page_Factory">
+        <test-method is-config="true" signature="intBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:20:57Z" name="intBeforeSuite" finished-at="2023-04-08T05:20:57Z" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:51:57Z" name="beforeClass" finished-at="2023-01-29T16:52:01Z" duration-ms="4311" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:20:57Z" name="beforeClass" finished-at="2023-04-08T05:21:04Z" duration-ms="7484" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,26 +20,42 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[https://www.saucedemo.com/]]>
+                <![CDATA[https://demo.nopcommerce.com/]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="Sort_01_Name_ASC()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:01Z" name="Sort_01_Name_ASC" finished-at="2023-01-29T16:52:04Z" duration-ms="3170" status="PASS">
+        <test-method signature="Login_TC_01_EmptyData()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:04Z" name="Login_TC_01_EmptyData" finished-at="2023-04-08T05:21:05Z" duration-ms="971" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Sort_01_Name_ASC -->
-        <test-method signature="Sort_02_Name_DESC()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:04Z" name="Sort_02_Name_DESC" finished-at="2023-01-29T16:52:07Z" duration-ms="3364" status="PASS">
+        </test-method> <!-- Login_TC_01_EmptyData -->
+        <test-method signature="Login_TC_02_InvalidEmail()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:05Z" name="Login_TC_02_InvalidEmail" finished-at="2023-04-08T05:21:06Z" duration-ms="926" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Sort_02_Name_DESC -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_19_Sort_ASC_DESC@95e33cc]" started-at="2023-01-29T16:52:07Z" name="afterClass" finished-at="2023-01-29T16:52:08Z" duration-ms="708" status="PASS">
+        </test-method> <!-- Login_TC_02_InvalidEmail -->
+        <test-method signature="Login_TC_03_EmailNotRegister()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:06Z" name="Login_TC_03_EmailNotRegister" finished-at="2023-04-08T05:21:07Z" duration-ms="1166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TC_03_EmailNotRegister -->
+        <test-method signature="Login_TC_04_BlankPassword()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:07Z" name="Login_TC_04_BlankPassword" finished-at="2023-04-08T05:21:09Z" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TC_04_BlankPassword -->
+        <test-method signature="Login_TC_05_WrongPassword()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:09Z" name="Login_TC_05_WrongPassword" finished-at="2023-04-08T05:21:10Z" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TC_05_WrongPassword -->
+        <test-method signature="Login_TC_06_LoginSuccess()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:10Z" name="Login_TC_06_LoginSuccess" finished-at="2023-04-08T05:21:11Z" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TC_06_LoginSuccess -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_05_Page_Factory@60f70249]" started-at="2023-04-08T05:21:11Z" name="afterClass" finished-at="2023-04-08T05:21:12Z" duration-ms="822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.nopcommerce.user.Level_19_Sort_ASC_DESC -->
+      </class> <!-- com.nopcommerce.user.Level_05_Page_Factory -->
     </test> <!-- run on firefox -->
-  </suite> <!-- SauceLab -->
+  </suite> <!-- NopCommerce -->
 </testng-results>

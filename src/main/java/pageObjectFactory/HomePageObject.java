@@ -3,6 +3,7 @@ package pageObjectFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 import commons.BasePageFactory;
@@ -16,9 +17,9 @@ public class HomePageObject extends BasePageFactory {
 	}
 	
 
-	@FindBy(xpath = "//a[@class ='ico-register']")
+	@FindBy(how =How.XPATH, using = "//a[@class ='ico-register']")// cach1
 	private WebElement registerLink;
-	@FindBy(xpath = "//a[@class= 'ico-login']")
+	@FindBy(xpath = "//a[@class= 'ico-login']")//cach2
 	private WebElement loginLink;
 
 	public void clickRegisterLink() {

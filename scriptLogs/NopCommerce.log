@@ -605,3 +605,21 @@ Driver info: driver.version: RemoteWebDriver
 [INFO ] [2023-01-29 21:03:54,902]  -------------------------- PASSED -------------------------- 
 [INFO ] [2023-01-29 21:03:54,990] OS name = windows 10
 [INFO ] [2023-01-29 21:03:54,990] Driver instance name = firefoxdriver: firefox on windows (1906dfab-52f1-47b3-a2f9-c247edbb9783)
+[INFO ] [2023-03-18 20:23:16,654] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-03-18 20:23:17,126] OS name = windows 10
+[INFO ] [2023-03-18 20:23:17,126] Driver instance name = firefoxdriver: firefox on windows (dbb62104-fa82-48a6-a2aa-b8ad4dfdb3d8)
+[INFO ] [2023-03-18 20:23:17,137] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UABRI8V', ip: '192.168.40.133', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 110.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230214051806, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 24532, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dbb62104-fa82-48a6-a2aa-b8ad4dfdb3d8
+[INFO ] [2023-03-18 20:23:43,776] Pre - Step_01: Input username into Admin login page
+[INFO ] [2023-03-18 20:23:44,274] OS name = windows 10
+[INFO ] [2023-03-18 20:23:44,274] Driver instance name = firefoxdriver: firefox on windows (b814e4c7-eb78-4acd-b2bf-1e34c048f59b)
+[INFO ] [2023-03-18 20:23:44,283] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UABRI8V', ip: '192.168.40.133', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 110.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230214051806, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 27800, moz:profile: C:\Users\admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b814e4c7-eb78-4acd-b2bf-1e34c048f59b
